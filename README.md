@@ -1,2 +1,2 @@
-# Auto-java-method-test-tool
-automate java method testing using pair wise test technique 
+#java-method-test-tool
+test java method using pair wise coverage
